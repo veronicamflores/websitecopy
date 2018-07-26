@@ -1,4 +1,30 @@
 .icon{
-    color: gold;
+    color: white;
     font-size: 4rem;
+}
+.icon-sm{
+    font-size: 2rem;
+}
+
+.img-back{
+    background: url("http://lostark.co/wp-content/uploads/2018/05/cool-buildings-around-the-world-new-at-classic-o-free-facebook.jpg") no-repeat center center;
+    background-size: cover;
+    /* background-color: lightgreen; */
+    height: 70vh;
+}
+
+.m-t-2{
+    margin-top: 2rem;
+}
+.m-t-7{
+    margin-top: 2rem;
+}
+
+.bg-green{
+    color: lightgreen;
+    background-color: rgb(6, 112, 24);
+    height: 20vh;
+}
+.bg-h{
+    height: 10vh;
 }

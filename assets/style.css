@@ -17,3 +17,11 @@
     color: lightgreen;
     background-color: rgb(6, 112, 24);
 }
+.bold{
+    font-family: 'Seymour One' , sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+.m-b-7{
+    margin-bottom: 6rem;
+}

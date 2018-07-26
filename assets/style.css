@@ -3,19 +3,23 @@
     font-size: 4rem;
 }
 .icon-sm{
-    font-size: 2rem;
+    color: white;
 }
 
 .img-back{
-    background: url("http://7-themes.com/data_images/out/54/6957057-empire-state-building-at-night.jpg") no-repeat center center;
-}
-
-.bg-green{
-    color: lightgreen;
-    background-color: rgb(6, 112, 24);
+    background: url("https://www.wallpaperup.com/uploads/wallpapers/2014/04/23/342025/33a6f7672cd98722b513e073c010f5bd.jpg") no-repeat center center;
+    height: 60vh;
+    background-size:cover;
 }
 .bold{
     font-family: 'Seymour One' , sans-serif;
-    color: rgb(0, 0, 0);
-
+    color:white;
 }
+.bg-gray{
+    color:white;
+    background-color: rgb(24, 24, 24);
+}
+.left{
+    justify-content: flex-end;
+}
+
